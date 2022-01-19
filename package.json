@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "broker": "^1.0.1",
+    "jsonschema": "^1.2.6",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.3.4",
+    "mysql": "^2.18.1",
+    "pug": "^3.0.2",
+    "serialport": "^9.2.8",
+    "sub": "^1.0.0"
+  }
+}
